@@ -1,0 +1,5 @@
+[30-Oct-2014 05:45:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gadfort_jpb-hawki-beta.CLIENT_CLASSIFICATION' doesn't exist' in /home/gadfort/public_html/hawki-beta/php/pages/housekeeping/clientclassification/clientClassification.php:129
+Stack trace:
+#0 /home/gadfort/public_html/hawki-beta/php/pages/housekeeping/clientclassification/clientClassification.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gadfort/public_html/hawki-beta/php/pages/housekeeping/clientclassification/clientClassification.php on line 129
