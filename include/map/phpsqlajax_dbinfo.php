@@ -1,6 +1,6 @@
 <?php
-$username="jpbsrmsys";
-$password="c@v@22July14";
-$database="jpb_hawki";
-$host="gaddieltech.fatcowmysql.com";
+$username="root";
+$password="";
+$database="hawki";
+$host="localhost";
 ?>
